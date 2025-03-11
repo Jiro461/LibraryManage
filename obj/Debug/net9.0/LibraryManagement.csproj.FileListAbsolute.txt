@@ -152,3 +152,4 @@ C:\LibraryManagement\obj\Debug\net9.0\refint\LibraryManagement.dll
 C:\LibraryManagement\obj\Debug\net9.0\LibraryManagement.pdb
 C:\LibraryManagement\obj\Debug\net9.0\LibraryManagement.genruntimeconfig.cache
 C:\LibraryManagement\obj\Debug\net9.0\ref\LibraryManagement.dll
+C:\LibraryManagement\obj\Debug\net9.0\LibraryManagement.sourcelink.json
